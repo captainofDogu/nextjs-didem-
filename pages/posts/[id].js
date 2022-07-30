@@ -10,7 +10,7 @@ const PostDetails = ({ post }) => {
   )
 }
 
-//url deki props yakalamak için bi fonk daha yazıcaz 
+//url deki props yakalamak için bi fonk daha yazıcaz z
 // her istekte tekrar tekrar yeniden html sayfası oluşturuluyor
 /* export const getServerSideProps = async (context) => {
     const res = await fetch(`https://jsonplaceholder.typicode.com/posts/${context.params.id}`)

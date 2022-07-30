@@ -1,0 +1,2 @@
+export const URL = process.env.NODE_ENV === "production" ? 'http://codingwithDidem.com': 'http://localhost:3000'
+// eğer yayınlanmış bi websitesi ise url de localhost yazılsın istemeyiz ona göre bi ayar çektik

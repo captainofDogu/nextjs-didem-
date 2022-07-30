@@ -14,3 +14,5 @@ a {
 * {
   box-sizing: border-box;
 }
+
+/* global.css tek bir yerden import edilebilir o da _app.js de zaten _app.js de olmasının sebeni budur   */
